@@ -1,6 +1,14 @@
 const projects = [
   {
     id: 1,
+    image: "/x-clone.png",
+    title: "Twitter(x) Clone-Mern Stack",
+    description:
+      "Mern stack X clone with React,Node,Express and MongoDB. Users can register,login,post,like and unlike and even comment on posts",
+    link: "https://twitter-clone-91yd.onrender.com/",
+  },
+  {
+    id: 2,
     image: "/aeon.png",
     title: "Law Firm Website",
     description:

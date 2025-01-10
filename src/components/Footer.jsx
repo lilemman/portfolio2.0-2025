@@ -5,7 +5,7 @@ const Footer = () => {
 
   return (
     <footer className="bg-primary text-white py-4 text-center mt-8">
-      <p>&copy; {currentYear} EACodeX | All rights reserved.</p>
+      <p>&copy; {currentYear} EACodeX || Ready for Work.</p>
     </footer>
   );
 };
