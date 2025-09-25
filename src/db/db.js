@@ -31,6 +31,7 @@ const projects = [
       "A travel website built with HTML and CSS, featuring beautiful destinations and travel guides.",
     link: "https://travelsiteb.netlify.app/",
   },
+
   {
     id: 4,
     image: "/eacomic.png",
